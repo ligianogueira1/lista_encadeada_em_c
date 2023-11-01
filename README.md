@@ -1,5 +1,5 @@
-<h1 align="center"> Lista Encadeada - Linguagem C - iFood </h1>
-<h4 align="center"> Engenharia de Computação/<a href="https://www.ifpb.edu.br/">IFPB</a>(Inverno 2023) </h4>
+<h1 align="center"> Lista Encadeada - Linguagem C </h1>
+<h4 align="center"> Engenharia de Computação/<a href="https://www.ifpb.edu.br/">IFPB</a> (Inverno 2023) </h4>
 
 <br>
 </br>
@@ -11,7 +11,7 @@
 
 <h2 id="creditos"> :scroll: CRÉDITOS</h2>
 
-- Instituição: Instituto Federal da Paraíba <a href="https://www.ifpb.edu.br/">IFPB</a>
+- Instituição: Instituto Federal da Paraíba <a href="https://www.ifpb.edu.br/">(IFPB)</a>
 - Curso: Engenharia de Computação
 - Disciplinas: Estrutura de Dados e Algoritmos | Laboratório de Estrutura de Dados e Algoritmos
 - Professor: Anderson Costa
@@ -32,7 +32,7 @@ A especificação do projeto pode ser verificada no link: https://imagem.app/ima
 
 <h2 id="descricao"> 📂 DESCRIÇÃO DOS ARQUIVOS </h2>
 
-<h4>➔ No arquivo <a href="https://github.com/ligianogueira1/lista_encadeada_em_c/blob/main/listadinalu.h"><b>listadinalu.h</b>:</a> </h4>
+<h4>➔ No arquivo <a href="https://github.com/ligianogueira1/lista_encadeada_em_c/blob/main/listadinalu.h"><b>listadinalu.h</b></a>:</h4>
 <p>Este arquivo contém a declaração das estruturas de dados (struct) e protótipos das funções relacionados à lista encadeada. Ele serve como uma interface para os outros arquivos do programa (lista.c e main.c).</p>
 
 <h4>➔ No arquivo <a href="https://github.com/ligianogueira1/lista_encadeada_em_c/blob/main/listadinalu.c"><b>listadinalu.c</b>:</a> </h4>
