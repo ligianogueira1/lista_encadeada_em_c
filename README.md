@@ -1,5 +1,5 @@
 <h1 align="center"> Lista Encadeada - Linguagem C </h1>
-<h4 align="center"> Engenharia de Computação/<a href="https://www.ifpb.edu.br/">IFPB</a> (Inverno 2023) </h4>
+<h4 align="center"> Engenharia de Computação/<a href="https://www.ifpb.edu.br/">IFPB</a> (Primavera 2023) </h4>
 
 <br>
 </br>
