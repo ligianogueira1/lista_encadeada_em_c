@@ -9,6 +9,8 @@
 
 <h4> <p align="center"> <a href="#creditos">Créditos</a> | <a href="#contexto">Contexto e objetivo</a> | <a href="#especificacao">Especificação</a> | <a href="#descricao">Descrição dos arquivos </a> </p>
 
+<a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="image host" height="5px" width="900px"/></a>
+
 <h2 id="creditos"> :scroll: CRÉDITOS</h2>
 
 - Instituição: Instituto Federal da Paraíba <a href="https://www.ifpb.edu.br/">(IFPB)</a>
@@ -18,7 +20,7 @@
 
 <a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="image host" height="5px" width="900px"/></a>
 
-<h2 id="contexto"> 📊: CONTEXTO E OBJETIVO</h2>
+<h2 id="contexto"> 🏛️: CONTEXTO E OBJETIVO</h2>
 
 O desenvolvimento do repositório dar-se-á resolução de questão sobre Lista Encadeada para a disciplina de Estrutura de Dados e Algoritmos.
 
@@ -35,8 +37,8 @@ A especificação do projeto pode ser verificada no link: https://imagem.app/ima
 <h4>➔ No arquivo <a href="https://github.com/ligianogueira1/lista_encadeada_em_c/blob/main/listadinalu.h"><b>listadinalu.h</b></a>:</h4>
 <p>Este arquivo contém a declaração das estruturas de dados (struct) e protótipos das funções relacionados à lista encadeada. Ele serve como uma interface para os outros arquivos do programa (lista.c e main.c).</p>
 
-<h4>➔ No arquivo <a href="https://github.com/ligianogueira1/lista_encadeada_em_c/blob/main/listadinalu.c"><b>listadinalu.c</b>:</a> </h4>
+<h4>➔ No arquivo <a href="https://github.com/ligianogueira1/lista_encadeada_em_c/blob/main/listadinalu.c"><b>listadinalu.c</b></a>:</h4>
 <p>Este arquivo contém as implementações das funções declaradas em "lista.h", sendo responsável por definir o comportamento real da lista encadeada. Aqui está inserido o código para adição, remoção e busca de elementos na lista.</p>
 
-<h4>➔ No arquivo <a href="https://github.com/ligianogueira1/lista_encadeada_em_c/blob/main/main.c"><b>main.c</b>:</a> </h4>
+<h4>➔ No arquivo <a href="https://github.com/ligianogueira1/lista_encadeada_em_c/blob/main/main.c"><b>main.c</b></a>:</h4>
 <p>Trata-se do código-fonte do programa. Ele inclui a função main() e demais lógicas de implementação. Neste arquivo, há a inclusão da "lista.h" para acessar as definições e funções da lista encadeada, bem como a utilização desta para realizar as operações necessárias para a aplicação.</p>
