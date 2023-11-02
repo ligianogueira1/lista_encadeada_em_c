@@ -20,7 +20,7 @@
 
 <a href="https://imgbox.com/3tZuCnVg" target="_blank"><img src="https://images2.imgbox.com/42/88/3tZuCnVg_o.png" alt="image host" height="5px" width="900px"/></a>
 
-<h2 id="contexto"> 🏛️: CONTEXTO E OBJETIVO</h2>
+<h2 id="contexto"> 🏛️ CONTEXTO E OBJETIVO</h2>
 
 O desenvolvimento do repositório dar-se-á resolução de questão sobre Lista Encadeada para a disciplina de Estrutura de Dados e Algoritmos.
 
